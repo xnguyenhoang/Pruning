@@ -5,7 +5,7 @@ Programy sa používa na testovanie efektivity pruningových alrgoritmov
 Potrebné knižnice na spusteni:<br />
 - Pytorch v. 2.0.1  pip3 install torch torchvision torchaudio
 
-V repozitári sa nachádza 2 python súbory: fnn.py a cnn.py.
+V repozitári sa nachádza 2 python súbory, MNIST dátový balík a bakalársky projekt v pdf forme.
 
 Stiahneme si repozitár s projektom.
 
