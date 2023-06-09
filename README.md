@@ -1,5 +1,4 @@
-# Pruning
-Efficiency analysis of pruning algorithms
+# Analýza efektivity pruningových algoritmov
 ![](https://img.shields.io/badge/PyTorch-v.%202.0.1-orange)
 
 Programy sa používa na testovanie efektivity pruningových alrgoritmov
