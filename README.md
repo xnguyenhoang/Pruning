@@ -15,4 +15,4 @@ V repozitári sa nachádza 2 python súbory, MNIST dátový balík a bakalársky
 
 Po spustení projektu sa stiahne dátový balík MNIST do súboru data, ak ešte náhodou nie je stiahnutý, inicializuje sa neurónová sieť a začne sa porovnávanie pruningových algoritmov.
 
-Odkaz na GutHub repozitár: https://github.com/xnguyenhoang/Pruning
+Odkaz na GitHub repozitár: https://github.com/xnguyenhoang/Pruning
